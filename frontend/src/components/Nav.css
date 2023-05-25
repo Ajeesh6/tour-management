@@ -1,0 +1,13 @@
+.nav_item{
+    color: rgb(123, 47, 137) !important;
+    font-weight: 700 !important;
+    font-size: 1.1rem !important;
+}
+.submit{
+    margin-top: 10px !important;
+    background-color: blueviolet !important;
+    border-radius: 35px !important;
+    text-align: center;
+}
+
+
